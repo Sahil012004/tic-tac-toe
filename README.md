@@ -1,1 +1,4 @@
-tic tac tow game build using javascript
+tic tac tow game build using :
+html
+css
+javascript
